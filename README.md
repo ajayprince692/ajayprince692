@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **mySQL,Springboot,javascript,node.js,ChatGPT and Corejava**
+- 💬 Ask me about **mySQL,Springboot,javascript,node.js,ChatGPT,HTML,CSS,Bootstrap,DOM and Corejava**
 
 - 📫 How to reach me **ajayprince1342@gmail.com**
 
